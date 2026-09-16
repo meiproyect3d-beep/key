@@ -1,0 +1,4 @@
+Coloca aquí tu archivo PDF con el nombre:
+documento.pdf
+
+Este archivo de texto es solamente un marcador. Sustitúyelo por un PDF real antes de publicar.
